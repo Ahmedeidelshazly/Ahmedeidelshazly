@@ -17,13 +17,14 @@
 
 ### Languages and Tools 🛠 : 
 
-![c](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
-![Avr](https://img.shields.io/badge/-Avr-%231572B6?style=flat-square&logo=Avr)
+![C](https://img.shields.io/badge/-C-%231572B6?style=flat-square&logo=C)
 ![embeded_c](https://img.shields.io/badge/-embeded_c-15b4c1?style=flat-square&logo=embeded_c&logoColor=ffffff)
-![Communcation protcolas](https://img.shields.io/Communcation_protcolas/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Not_pad++](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Not_pad++&logoColor=ffffff)
+![Logisim](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Logisim&logoColor=ffffff)
+
 
 - ### I’m currently learning 
 ![Embeded system diploma](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
