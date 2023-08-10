@@ -26,7 +26,7 @@
 ![Logisim](https://img.shields.io/badge/Logisim-181717?style=flat-square&logo=Logisim)
 
 
-- ### I’m currently learning 
+- # I’m currently learning 
 ![Embeded system diploma](https://img.shields.io/badge/-Embeded_system_diploma-7348b6?style=flat-square&logo=Embeded_system_diploma&logoColor=ffffff)
 
 
